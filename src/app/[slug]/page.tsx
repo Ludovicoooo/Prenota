@@ -91,7 +91,7 @@ export default async function RestaurantPage({ params, searchParams }: PageProps
           <p className="font-medium mb-2">💡 Info utili</p>
           <ul className="space-y-1 text-blue-800">
             <li>• Arriva puntuale: il tavolo ti aspetta per 15 minuti</li>
-            <li>• Per gruppi >10 persone, chiama direttamente</li>
+            <li>• Per gruppi &gt;10 persone, chiama direttamente</li>
             <li>• Cancellazione gratuita fino a 2 ore prima</li>
           </ul>
         </div>
